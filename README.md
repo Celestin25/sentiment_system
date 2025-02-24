@@ -10,7 +10,7 @@ This application has been created to simulate the understanding of sentiment acr
 1. **Clone the code from this repository:**
 
    ```
-  https://github.com/Celestin25/sentiment_system/
+ https://github.com/Celestin25/sentiment_system.git
    ```
 
 2. **Create a virtual environment using the `virtualenv` command.**
