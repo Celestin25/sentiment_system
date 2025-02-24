@@ -152,9 +152,7 @@ In the case of URL Sentiment Analysis, just copy-paste the URL that you want to 
 
 ![sentiment analysis for a url](./static/images/screens/url-positive.png)
 
-### Testing for Media Sentiment Analysis
 
-[work in-progress]
 
 ## License
 
