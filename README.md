@@ -2,16 +2,15 @@
 
 This is a sentiment analysis project created using Flask.
 
-This application has been created to simulate the understanding of sentiment across various media such as text, URL, audio or video.
+This application has been created to simulate the understanding of sentiment across various media such as text, URL.
 
-<small>**Note**: Initially planning to complete text and URL and then focus on other media types in the future.</small>
 
 ## Installation
 
 1. **Clone the code from this repository:**
 
    ```
-   https://github.com/edwinrlambert/Sentiment-Analysis-Using-Flask.git
+  https://github.com/Celestin25/sentiment_system/
    ```
 
 2. **Create a virtual environment using the `virtualenv` command.**
